@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Clarence\\Benchmark": "src"
+            "Clarence\\Benchmark\\": "src"
         }
     }
 }
