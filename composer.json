@@ -1,0 +1,20 @@
+{
+    "name": "clarence/benchmark",
+    "description": "A benchmark tool for php",
+    "type": "Library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Clarence",
+            "email": "clarence-pan@foxmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Clarence\\Benchmark": "src"
+        }
+    }
+}
